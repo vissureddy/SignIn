@@ -1,3 +1,8 @@
+# Prerequisites 
+ JDK8
+ NodeJs, ReactJs
+ Maven
+
 # Local setup
 
 Step 1: Download or clone the source code from GitHub to a local machine
