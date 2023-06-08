@@ -184,7 +184,7 @@ class Register extends Component {
       <div className="col-md-12">
         <div className="card bg-light text-dark">
 
-          <h1><center>User Registration </center></h1>
+          <h1><center>Create your free account</center></h1>
 
 
           <Form
@@ -268,7 +268,7 @@ class Register extends Component {
                 </div>            
                 
             <div className="form-group">
-              <button className="btn btn-dark btn-block">Sign Up</button>
+              <button className="btn btn-dark btn-block">Create Account</button>
              </div> 
             </div>
             )}
