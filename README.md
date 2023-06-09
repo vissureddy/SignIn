@@ -17,6 +17,8 @@ Step 3:  ```mvn spring-boot:run```
 
 Step 4:  ```npm install```
 
+Step 5: Set environment variable ```set node-options="--openssl-legacy-provider"```
+
 Step 5:  ```npm start```
 
 <img width="848" alt="Picture1" src="https://github.com/vissureddy/SignIn/assets/26537317/b734aacb-a192-4207-bbe6-241da3d2013e">
